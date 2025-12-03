@@ -142,4 +142,4 @@ O uso de IA foi permitido para:
 
 ---
 
-As Interações 7 a 11 permanecem abertas para serem preenchidas futuramente.
+
